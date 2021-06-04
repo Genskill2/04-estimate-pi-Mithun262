@@ -55,3 +55,7 @@ float mc_pi(int count)
 	float area = ((4*picount)/count);
 	return area;
 }
+
+
+
+
